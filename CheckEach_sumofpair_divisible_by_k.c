@@ -6,7 +6,7 @@ int main()
     scanf("%d", &n);
     int a[n];
     
-    printf("Enter 1st array");
+    printf("Enter array");
     for (i = 0; i < n; i++) 
         scanf("%d", &a[i]);
     
