@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    int n,i,j,k,check=1,avg;
+    int n,i,j,k,avg;
     printf("Enter size of array");
     scanf("%d", &n);
     int a[n];
